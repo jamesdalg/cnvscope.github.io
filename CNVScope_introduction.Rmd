@@ -2,7 +2,9 @@
 title: "CNVScope"
 author: "James Dalgleish"
 date: "November 26, 2018"
-output: html_document
+output: 
+     html_document: default
+     github_document: default
 ---
 
 ```{r setup, include=FALSE}
